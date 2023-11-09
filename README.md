@@ -5,5 +5,9 @@ Con un template muy básico y a través de JavaScript la idea era poder crear un
   - Si el número es cero, se dibujarán dos guiones bajos (__).
 
 
+# Cómo funciona
+- Clonar código en un Terminal de VSC
+- Abrir en el navegador
+- Cambiar el numéro -15 por el que quiera para poder ver la diferencia
 
 
