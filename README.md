@@ -5,22 +5,5 @@ Con un template muy básico y a través de JavaScript la idea era poder crear un
   - Si el número es cero, se dibujarán dos guiones bajos (__).
 
 
-* Ejemplo: -15
-
-_|
- _|_|
-  _|_|
-   _|_|
-    _|_|
-     _|_|
-      _|_|
-       _|_|
-        _|_|
-         _|_|
-          _|_|
-           _|_|
-            _|_|
-             _|_|
-              _|_|
 
 
